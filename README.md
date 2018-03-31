@@ -1,2 +1,3 @@
 # pi-remote-control-car
-Raspberry Pi + remote control car + missile launcher = fun!
+Raspberry Pi + Remote Control Car + Missile Launcher + Alexa = FFFFun!
+
